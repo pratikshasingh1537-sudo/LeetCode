@@ -7,10 +7,12 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +21,8 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
