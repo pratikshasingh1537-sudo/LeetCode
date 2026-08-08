@@ -16,6 +16,7 @@ Solutions to LeetCode problems in C++.
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
