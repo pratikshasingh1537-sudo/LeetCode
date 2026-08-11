@@ -19,6 +19,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
