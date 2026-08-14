@@ -1,28 +1,24 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        int m = nums1.size();
-        int n = nums2.size();
-
-        vector<int> result;
-
-        unordered_map<int, int> mp1;
-        unordered_map<int, int> mp2;
-
-        for(auto it : nums1) {
-            mp1[it]++;
-        }
-
-        for(auto it : nums2) {
-            mp2[it]++;
-        }
-
-        for(auto it : mp1) {
-            if(mp2.find(it.first) != mp2.end()) {
-                result.push_back(it.first);
+        std::sort(nums1.begin(),nums1.end());
+        std::sort(nums2.begin(),nums2.end());
+        std::vector<int>ans;
+        int i=0,j=0;
+        while(i<nums1.size()&&j<nums2.size()){
+            if(nums1[i]==nums2[j]){
+                if(ans.size()==0||ans.back()!=nums1[i]){
+                    ans.push_back(nums1[i]);
+                }
+                i++;j++;
+            }
+            else if(nums1[i]>nums2[j]){
+                j++;
+            }
+            else{
+                i++;
             }
         }
-
-        return result;
+        return ans;
     }
 };
