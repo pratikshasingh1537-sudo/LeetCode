@@ -1,24 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        std::sort(nums1.begin(),nums1.end());
-        std::sort(nums2.begin(),nums2.end());
-        std::vector<int>ans;
-        int i=0,j=0;
-        while(i<nums1.size()&&j<nums2.size()){
-            if(nums1[i]==nums2[j]){
-                if(ans.size()==0||ans.back()!=nums1[i]){
-                    ans.push_back(nums1[i]);
-                }
-                i++;j++;
-            }
-            else if(nums1[i]>nums2[j]){
-                j++;
-            }
-            else{
-                i++;
+        unordered_set<int> hashSet(nums1.begin(), nums1.end()); // Store unique elements of nums1
+        unordered_set<int> result;  // To store intersection
+
+        // Check elements of nums2 in hashSet
+        for (int num : nums2) {
+            if (hashSet.count(num)) {
+                result.insert(num); // Store only unique intersecting elements
             }
         }
-        return ans;
+
+        // Convert result set to vector and return
+        return vector<int>(result.begin(), result.end());
     }
 };
