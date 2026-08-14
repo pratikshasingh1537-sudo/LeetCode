@@ -8,6 +8,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Solutions to LeetCode problems in C++.
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +52,12 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
