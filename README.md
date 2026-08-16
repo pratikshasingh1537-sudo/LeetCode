@@ -7,6 +7,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,6 +59,7 @@ Solutions to LeetCode problems in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -65,4 +67,8 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
