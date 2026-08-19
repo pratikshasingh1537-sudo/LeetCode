@@ -52,6 +52,7 @@ Solutions to LeetCode problems in C++.
 | [0125-valid-palindrome](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0344-reverse-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
@@ -62,6 +63,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
