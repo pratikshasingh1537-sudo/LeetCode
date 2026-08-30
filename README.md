@@ -13,6 +13,7 @@ Solutions to LeetCode problems in C++.
 | [0035-search-insert-position](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0035-search-insert-position](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
