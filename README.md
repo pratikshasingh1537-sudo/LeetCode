@@ -19,6 +19,7 @@ Solutions to LeetCode problems in C++.
 | [0283-move-zeroes](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -31,6 +32,7 @@ Solutions to LeetCode problems in C++.
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +112,8 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0278-first-bad-version](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
