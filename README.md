@@ -123,4 +123,12 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
