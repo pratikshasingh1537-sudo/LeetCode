@@ -28,6 +28,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -64,6 +65,7 @@ Solutions to LeetCode problems in C++.
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -122,6 +124,7 @@ Solutions to LeetCode problems in C++.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
