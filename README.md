@@ -22,6 +22,7 @@ Solutions to LeetCode problems in C++.
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -103,6 +104,7 @@ Solutions to LeetCode problems in C++.
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
