@@ -39,6 +39,7 @@ Solutions to LeetCode problems in C++.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -133,9 +134,11 @@ Solutions to LeetCode problems in C++.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
