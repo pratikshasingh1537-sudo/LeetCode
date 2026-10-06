@@ -15,6 +15,7 @@ Solutions to LeetCode problems in C++.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0001-two-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -54,6 +56,7 @@ Solutions to LeetCode problems in C++.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +84,7 @@ Solutions to LeetCode problems in C++.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Two Pointers
 |  |
@@ -156,4 +160,12 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
