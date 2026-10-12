@@ -11,6 +11,7 @@ Solutions to LeetCode problems in C++.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0162-find-peak-element) |
@@ -53,6 +54,7 @@ Solutions to LeetCode problems in C++.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -193,4 +195,8 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
