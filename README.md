@@ -125,6 +125,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -183,16 +185,19 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +207,8 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0078-subsets](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0090-subsets-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
