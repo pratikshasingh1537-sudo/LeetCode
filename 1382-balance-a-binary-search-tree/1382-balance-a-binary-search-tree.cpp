@@ -11,23 +11,23 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* node, vector<int>& vals) {
-        if(!node) return;
-        inorder(node->left, vals);
-        vals.push_back(node->val);
-        inorder(node->right, vals);
-    }
-    TreeNode* build(const vector<int>& vals, int l, int r) {
-        if(l > r) return nullptr;
-        int mid = (l + r) / 2;
-        TreeNode* node = new TreeNode(vals[mid]);
-        node->left  = build(vals, l, mid - 1);
-        node->right = build(vals, mid + 1, r);
-        return node;
-    }
+    vector<TreeNode*> sortedArr;
     TreeNode* balanceBST(TreeNode* root) {
-        vector<int> vals;
-        inorder(root, vals);
-        return build(vals, 0, (int)vals.size() - 1);
+        inorderTraverse(root);
+        return sortedArrayToBST(0, sortedArr.size() - 1);
+    }
+    void inorderTraverse(TreeNode* root) {
+        if (root == NULL) return;
+        inorderTraverse(root->left);
+        sortedArr.push_back(root);
+        inorderTraverse(root->right);
+    }
+    TreeNode* sortedArrayToBST(int start, int end) {
+        if (start > end) return NULL;
+        int mid = (start + end) / 2;
+        TreeNode* root = sortedArr[mid];
+        root->left = sortedArrayToBST(start, mid - 1);
+        root->right = sortedArrayToBST(mid + 1, end);
+        return root;
     }
 };
