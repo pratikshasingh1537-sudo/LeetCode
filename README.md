@@ -52,6 +52,7 @@ Solutions to LeetCode problems in C++.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Bit Manipulation
 |  |
 | ------- |
