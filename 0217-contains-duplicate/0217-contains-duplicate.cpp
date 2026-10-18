@@ -1,11 +1,14 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> hash;
-        for (int num: nums) {
-            if(hash.count(num)>0)
+        unordered_set<int> seen;
+        for (int num : nums) {
+            // If the number is already in the set, we found a duplicate
+            if (seen.count(num)) {
                 return true;
-            hash.insert(num);
+            }
+            // Otherwise, insert it into the set
+            seen.insert(num);
         }
         return false;
     }
