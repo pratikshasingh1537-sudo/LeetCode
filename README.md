@@ -26,6 +26,7 @@ Solutions to LeetCode problems in C++.
 | [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -50,6 +51,7 @@ Solutions to LeetCode problems in C++.
 | [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2469-convert-the-temperature) |
