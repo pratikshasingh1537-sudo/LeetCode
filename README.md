@@ -28,6 +28,7 @@ Solutions to LeetCode problems in C++.
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -150,6 +151,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
