@@ -29,6 +29,7 @@ Solutions to LeetCode problems in C++.
 | [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -229,14 +230,17 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -245,12 +249,15 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
