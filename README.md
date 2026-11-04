@@ -49,6 +49,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0326-power-of-three) |
@@ -176,10 +177,12 @@ Solutions to LeetCode problems in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
