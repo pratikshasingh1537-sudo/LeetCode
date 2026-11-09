@@ -31,6 +31,7 @@ Solutions to LeetCode problems in C++.
 | [1480-running-sum-of-1d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0258-add-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
