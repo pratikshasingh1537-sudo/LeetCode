@@ -27,6 +27,7 @@ Solutions to LeetCode problems in C++.
 | [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -79,6 +80,7 @@ Solutions to LeetCode problems in C++.
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Simulation
 |  |
@@ -192,6 +194,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -267,4 +270,24 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
