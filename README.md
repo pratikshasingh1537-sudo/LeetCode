@@ -46,6 +46,7 @@ Solutions to LeetCode problems in C++.
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0525-contiguous-array) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ Solutions to LeetCode problems in C++.
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -110,6 +112,7 @@ Solutions to LeetCode problems in C++.
 | ------- |
 | [0169-majority-element](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,4 +299,8 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
