@@ -98,6 +98,7 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0242-valid-anagram) |
@@ -116,6 +117,7 @@ Solutions to LeetCode problems in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -187,6 +189,7 @@ Solutions to LeetCode problems in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -303,4 +306,8 @@ Solutions to LeetCode problems in C++.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratikshasingh1537-sudo/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
